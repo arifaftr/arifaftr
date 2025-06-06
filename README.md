@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+World!)](https://git.io/typing-svg)
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arrifaftr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arifafitra@gmail.com) 
