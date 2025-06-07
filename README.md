@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Arifa+👋;Cybersecurity+Learner+%F0%9F%94%91;Tech+Student+from+Yogyakarta+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Arifa+👋;Cybersecurity+Learner+%F0%9F%94%91;Tech+Student+from+Yogyakarta+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" />
 </p>
 
 <!-- Badge Info -->
