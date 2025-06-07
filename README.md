@@ -12,7 +12,7 @@ I'm passionate about **Cyber Security**, and currently still learning and explor
 
 Feel free to connect or collaborate!
 
-> *"Cybersecurity is not just a skill, it's a responsibility."*
+> *"Learning isn’t about how fast you go — it’s about not stopping until you get it."
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/arifaftr/snk/output/github-contribution-grid-snake.svg)
