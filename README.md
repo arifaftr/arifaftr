@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=30&lines=Hello,+World!" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&center=true&vCenter=true&width=450&lines=Hello,+World!" alt="Typing SVG" /> 
 </p>
 
 <!-- Badge Info -->
