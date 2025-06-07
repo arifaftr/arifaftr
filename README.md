@@ -1,6 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?size=30&center=true&vCenter=true&width=450&lines=Hello,+World!" alt="Typing SVG" /> 
 </p>
+---
+
+# 👋 Hi, I'm Arifa!
+I'm a student at **'Aisyiyah University of Yogyakarta**, majoring in **Information Technology**.
+I'm passionate about **Cyber Security**, and currently still learning and exploring more in this exciting field.  
 
 <!-- Badge Info -->
 <p align="center">
@@ -9,12 +14,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/Status-Learning-FFA500?style=flat-square"></a>
 </p>
-
----
-
-# 👋 Hi, I'm Arifa!
-I'm a student at **'Aisyiyah University of Yogyakarta**, majoring in **Information Technology**.
-I'm passionate about **Cyber Security**, and currently still learning and exploring more in this exciting field.
 
 ## About Me
 - Undergraduate student
