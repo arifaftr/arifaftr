@@ -10,9 +10,10 @@ I'm passionate about **Cyber Security**, and currently still learning and explor
 - Interested in ethical hacking, network security, and digital forensics
 - Currently learning about Linux, networking basics, and CTF
 
+
 Feel free to connect or collaborate!
 
-> *"Learning isn’t about how fast you go — it’s about not stopping until you get it."
+> *"Learning isn’t about how fast you go — it’s about not stopping until you get it."*
 ---
 
 ![Snake animation](https://raw.githubusercontent.com/arifaftr/snk/output/github-contribution-grid-snake.svg)
