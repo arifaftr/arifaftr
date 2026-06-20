@@ -12,7 +12,7 @@ I'm passionate about **Cyber Security**, and currently still learning and explor
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Major-Information%20Technology-007BFF?style=flat-square"></a>
   <a href="#"><img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=flat-square"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Status-Learning-007BFF?style=flat-square"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Learning-28a745?style=flat-square"></a>
 </p>
 
 ## About Me
